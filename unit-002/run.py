@@ -1,3 +1,4 @@
+import re
 import unittest
 from app import has_ligma
 
