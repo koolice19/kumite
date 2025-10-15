@@ -1,2 +1,3 @@
 def has_ligma(sentence):
-    return 0
+    if "ligma" not in has_ligma.lower():
+return(False)
